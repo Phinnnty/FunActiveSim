@@ -1,0 +1,5 @@
+Pillow
+packaging
+pyautogui
+pystray
+requests
